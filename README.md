@@ -4,7 +4,7 @@ This is a quick way of setuping your map for maploader.
 How it works?
 1. Open Setup.ini
 2. Edit it.
-INIFile=NameOfTheMap.ini
+INIFile=NameOfTheMap.ini\
 TrackModelPath=PathToModels\
 TrackTexturePath=PathToTextures\
 MapModelLODPath=PathToLOD\
