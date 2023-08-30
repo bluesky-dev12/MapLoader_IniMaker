@@ -9,4 +9,4 @@ TrackModelPath=PathToModels\
 TrackTexturePath=PathToTextures\
 MapModelLODPath=PathToLOD\
 MapCollisionPath=PathToColisions
-3. Save and Run it. It will generate all info for Map. Easy...
+3. Save and Run it. It will generate the ini for the map with all stuff in it.
