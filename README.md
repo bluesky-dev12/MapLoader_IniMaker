@@ -1,5 +1,5 @@
 # MapLoader_IniMaker
-This is a quick way of setuping your map for maploader.
+This is a quick way of making a setup your map for maploader.
 
 How it works?
 1. Open Setup.ini
