@@ -1,4 +1,4 @@
-﻿
+﻿using System.IO;
 namespace Core
 {
     internal class FileWriter
@@ -96,7 +96,7 @@ namespace Core
                 Final.Add(ColisionStringPath);
             }
 
-            System.IO.File.WriteAllLines(INIFILE, Final);
+            File.WriteAllLines(INIFILE, Final);
         }
     }
 }
